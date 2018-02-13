@@ -2,7 +2,7 @@
 
 This source code is intended **for educational purposes only**. Please do not use the code for doing bad things.
 
-The author of this source code is **lanker** and **孟兄**.
+The author of this source code are **lanker** and **孟兄**.
 
 The source code was originally written in `Simplified Chinese` and then converted to `Traditional Chinese`.
 
